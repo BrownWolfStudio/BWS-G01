@@ -22,7 +22,7 @@ GameObject:
   - component: {fileID: 33039464377540766}
   - component: {fileID: 23758715573360218}
   - component: {fileID: 61885805256100066}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: BCube
   m_TagString: Untagged
   m_Icon: {fileID: 0}

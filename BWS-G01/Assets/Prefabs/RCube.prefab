@@ -22,7 +22,7 @@ GameObject:
   - component: {fileID: 33783121050222818}
   - component: {fileID: 23224207994146498}
   - component: {fileID: 61837928485986408}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: RCube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
